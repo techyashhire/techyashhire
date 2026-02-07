@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Yash 👋
 
-<!--
-**techyashhire/techyashhire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Analyst** with a strong interest in data visualization and business intelligence.  
+I enjoy turning raw data into meaningful insights using dashboards and analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+- Power BI (DAX, Power Query)
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- Data Cleaning & Visualization
+- Excel
+
+---
+
+### 📊 Featured Projects
+- **Netflix Power BI Dashboard**  
+  Interactive dashboard analyzing Netflix content by genre, rating, country, and release trends.
+
+---
+
+### 🌱 Currently Learning
+- Advanced DAX
+- SQL for analytics
+- Python for data analysis
+
+---
